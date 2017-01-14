@@ -1,0 +1,2 @@
+- Remove support for pointer events as per [this issue](https://github.com/hammerjs/hammer.js/issues/1065)
+  - **File:** `src/inputjs/input-consts.js`
